@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+    
+} 
+.heading {
+    width: 80%;
+    font: size 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name_of_objects, #result_object_name {
+color:blue;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
